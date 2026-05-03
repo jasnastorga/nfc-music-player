@@ -37,8 +37,8 @@ v0.1 runs on Option 1. Option 2 is the target architecture for v1.0.
 
 ## Status
 
-- v0.1 — Working. Hardcoded UID lookup, 20 tracks, stable playback.
-- v1.0 — In progress. CSV-based dynamic lookup via resolved SPI architecture.
+- v0.1 — (3-12-26) Working. Hardcoded UID lookup, 20 tracks, stable playback.
+- v1.0 — (Currently In Progress). CSV-based dynamic lookup via resolved SPI architecture.
 
 ## Built With
 
