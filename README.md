@@ -6,6 +6,8 @@ A standalone, phone-free music playback system triggered by physical NFC cards. 
 
 The goal was to make music physical again — closer to the experience of flipping through records than scrolling through a playlist. Each NFC sticker card is mapped to a specific track, and tapping it to the reader triggers immediate playback through a 3.5mm audio output.
 
+![NFC Music Player](IMG_1774.jpg)
+
 ## Hardware
 
 | Component | Role |
